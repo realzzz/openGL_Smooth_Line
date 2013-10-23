@@ -3,7 +3,7 @@ openGL_Smooth_Line
 
 How to draw smooth line (OpenGL on iOS) 
 
-# NOTE # - Code is not presented since that's still running in the commercial product, but anyway it should be quite easy to implement based on the idea below.
+NOTE - Code is not presented since that's still running in the commercial product, but anyway it should be quite easy to implement based on the idea below.
 
     JERRY ALGORITHM OF FAST DRAWING ARC
  
